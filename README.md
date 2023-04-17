@@ -21,19 +21,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Ilustrator.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Photoshop.png"></code>
 
-## Donde me puedes encontrar
-
-_Personal_
-* Fotos, tips y memes **[Instagram](https://www.instagram.com/iamdaguilera)**
-* Leo, comparto y aprendo en **[Twitter](https://twitter.com/davermx)**
-
-_Emprendimiento_
-* Tiendita en linea **[Office Toners](https://officetoners.com.mx)**
-  + Instagram de **[Office Toners](https://www.instagram.com/officetoners/)**
-  + Fanpage **[Office Toners](https://www.facebook.com/Officetoners1/)**
-* Implemento y Capacito **[Software Gisemx](https://daguilera.com.mx/soluciones.html)**
-  + Fanpage **[Gisemx](https://www.facebook.com/gisecancun/)**
-
+## 
 
 
 #### Si te sirvio, picale a **Stars**, tambien puedes darle **Fork** o mandame un tuit y dime que podemos mejorarle. ✌️
