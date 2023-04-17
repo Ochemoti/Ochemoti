@@ -1,13 +1,10 @@
 ### Hola soy Chema Programador Android . Espero ayudarte! 👋
 <h1 align="center"><b>BIENVENIDOS A MI AREA DE PROGRAMACION</b></h1>
- ##Soy **Android Developer**, con varios años de experiencia en tecnologías de la Información, he colaborado para **Dolby atmos e Ingergia Soluciones**  Actualmente sigo formandome para llegar a se un **Full Stack Developer**, me apasiona la programacion, busco aprender constantemente, apoyar, colaborar y **nunca parar de aprender , me considero learnaholic** ##
- ##  Hola! Mi Nombre es 
-
-![](https://repository-images.githubusercontent.com/279038181/c62944b4-2b7e-4db6-82f8-3d8693679e28)
-<!-- ![](https://repository-images.githubusercontent.com/279038181/2fd7c200-c3fe-11ea-88fb-9168a2cc001d) -->
 
 
- Soy **Consultor TI**, con más de 18 años de experiencia en tecnologías de la Información, he colaborado para **cervecería cuauhtémoc moctezuma, Calica (minería), Canaco Servytur Cancun, Banyan Tree Mayakoba, Oasis Hoteles.**  Actualmente sigo capacitandome diseño web y espero llegar a ser un **Full Stack Developer**, me apasiona la tecnología, busco oportunidades para aprender, apoyar, colaborar y **nunca parar de aprender.**   
+
+
+ Soy **Android Developer**, con varios años de experiencia en tecnologías de la Información, he colaborado para **Dolby atmos e Ingergia Soluciones**  Actualmente sigo formandome para llegar a se un **Full Stack Developer**, me apasiona la programacion, busco aprender constantemente, apoyar, colaborar y **nunca parar de aprender , me considero learnaholic**  
 
 **Apps y Herramientas que uso:**  
 
