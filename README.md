@@ -14,7 +14,7 @@
 ## 
 
 
-#### Si te sirvio, picale a **Stars**, tambien puedes darle **Fork** o mandame un tuit y dime que podemos mejorarle. ✌️
+#### Si te sirvio, pulsa en **Stars**, tambien puedes darle **Fork** o mandame un mail y dime que podemos mejorarle. ✌️
 
 <!--
 **Ochemoti/Ochemoti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
