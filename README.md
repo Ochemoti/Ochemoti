@@ -2,42 +2,7 @@
 
 <!--
 **Ochemoti/Ochemoti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<!DOCTYPE HTML PUBLIC 
-	>
-<html>
-	<head>
-		<meta charset="UTF-8" />
-		<title>Hola Mundo</title>
-		<style>
-			body {
-				background-color: #fc9;
-			}
-			h1 { letter-spacing: 4px; 
-				text-align: center;
-			}
-			img#logo {
-				display: block;
-				margin-left: auto;
-				margin-right: auto;
-				width: 50%;
-				transition: width 1s
-			}
 
-			img#logo:hover {
-				background-color: #6491ed;
-				width: 60%;
-				transition: width 1s;
-			}	
-    		
-			#logo2 {
-				display: block;
-				margin-left: auto;
-				margin-right: auto;
-				width: 400px;
-			}
-		</style>
-		<script></script>
-	</head>
 	
 		
 <body bgcolor="blue" >
