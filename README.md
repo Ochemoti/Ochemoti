@@ -10,8 +10,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Js.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Git.png"></code>
 
-<a target="_blank" href="https://imageshack.com/i/pmwe8cdFj" align="center"><img src="https://imagizer.imageshack.com/v2/xq70/922/we8cdF.jpg" border="0"></a>
-
+<a target="_blank" href="https://imageshack.com/i/pm1PCUYGp"><img src="https://imagizer.imageshack.com/v2/xq70/922/1PCUYG.png" border="0"></a>
 
 ## 
 
