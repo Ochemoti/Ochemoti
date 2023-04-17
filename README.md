@@ -1,6 +1,6 @@
 ### Hola soy Chema Programador Android . Espero ayudarte! 👋
 <h1 align="center"><b>BIENVENIDOS A MI AREA DE PROGRAMACION</b></h1>
- ###Soy **Android Developer**, con varios años de experiencia en tecnologías de la Información, he colaborado para **Dolby atmos e Ingergia Soluciones**  Actualmente sigo formandome para llegar a se un **Full Stack Developer**, me apasiona la programacion, busco aprender constantemente, apoyar, colaborar y **nunca parar de aprender , me considero learnaholic** 
+ ##Soy **Android Developer**, con varios años de experiencia en tecnologías de la Información, he colaborado para **Dolby atmos e Ingergia Soluciones**  Actualmente sigo formandome para llegar a se un **Full Stack Developer**, me apasiona la programacion, busco aprender constantemente, apoyar, colaborar y **nunca parar de aprender , me considero learnaholic** 
 
 <!--
 **Ochemoti/Ochemoti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
